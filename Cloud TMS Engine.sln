@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cloud TMS Engine", "Cloud TMS Engine\Cloud TMS Engine.vbproj", "{9879270D-844C-42BD-9F85-566F60BC8CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9879270D-844C-42BD-9F85-566F60BC8CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9879270D-844C-42BD-9F85-566F60BC8CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9879270D-844C-42BD-9F85-566F60BC8CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9879270D-844C-42BD-9F85-566F60BC8CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C38CC4-DECC-4A98-A119-EB27676404B2}
+	EndGlobalSection
+EndGlobal
